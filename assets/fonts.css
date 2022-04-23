@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "Gilroy-ExtraBold";
+  src: local("Gilroy-ExtraBold"),
+  url(./fonts/Gilroy-ExtraBold.ttf) format("truetype");
+}
+@font-face {
+  font-family: "Segoe-UI-Semibold";
+  src: local("Segoe-UI-Semibold"),
+  url(./fonts/Segoe-UI-Semibold.ttf) format("truetype");
+}
+@font-face {
+  font-family: "Segoe-UI";
+  src: local("Segoe-UI"),
+  url(./fonts/Segoe-UI.ttf) format("truetype");
+}
